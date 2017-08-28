@@ -20,15 +20,8 @@ jQuery(window).scroll(function () {
     }
 });
 
-jQuery("#cta").click(function () {
+jQuery("#cat").click(function () {
     jQuery("body,html").animate({
-        scrollTop: 0
-    }, 600);
-});
-jQuery(window).scroll(function () {
-    if (jQuery(window).scrollTop() > 150) {
-        jQuery("#cta").addClass("visible");
-    } else {
-        jQuery("#cta").removeClass("visible");
-    }
+        scrollTop: 1130
+    }, 700);
 });
