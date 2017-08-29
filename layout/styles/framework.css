@@ -51,9 +51,9 @@ img{width:auto; max-width:100%; height:auto; margin:0; padding:0; border:none; l
 
 /* Fonts
 --------------------------------------------------------------------------------------------------------------- */
-@font-face {font-family: SetoFont; src: local("SetoFont") url("fonts/sp-setofont.tff");}
-body, heading, input, textarea, select{font-family: SetoFont;}
-h1, h2, h3, h4, h5, h6, .heading{font-family: SetoFont;}
+@font-face {font-family: "SetoFont","Microsoft YaHei"; src: local("SetoFont") url("fonts/sp-setofont.tff");}
+body, heading, input, textarea, select{font-family: "SetoFont","Microsoft YaHei";}
+h1, h2, h3, h4, h5, h6, .heading{font-family: "SetoFont","Microsoft YaHei";}
 
 
 /* Forms
