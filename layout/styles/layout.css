@@ -233,6 +233,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF866C;}
 
 .btn, .btn.inverse:hover{color:#FFFFFF; background-color:#FF866C; border-color:#FF866C;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
+.btnlink:hover{color:#FFFFFF; background-color:#797979; border-color:#FF866C;}
 
 
 /* Rows */
@@ -242,7 +243,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF866C;}
 .row3{color:#797979; background-color:#FFFFFF;}
 .row4{color:#8A8A8A; background-color:#27292C;}
 .row5, .row5 a{color:#8A8A8A; background-color:#27292C;}
-.row6{color:#FFFFFF; background-color:#393C40;}
+.row6,{color:#FFFFFF; background-color:#393C40;}
 
 
 /* Header */
