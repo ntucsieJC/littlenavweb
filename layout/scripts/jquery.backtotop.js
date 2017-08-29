@@ -23,11 +23,11 @@ jQuery(window).scroll(function () {
 jQuery("#cat").click(function () {
     jQuery("body,html").animate({
         scrollTop: 1130
-    }, 700);
+    }, 500);
 });
 
 jQuery("#toword").click(function () {
     jQuery("body,html").animate({
         scrollTop: 2250
-    }, 900);
+    }, 400);
 });
