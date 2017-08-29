@@ -25,3 +25,9 @@ jQuery("#cat").click(function () {
         scrollTop: 1130
     }, 700);
 });
+
+jQuery("#toword").click(function () {
+    jQuery("body,html").animate({
+        scrollTop: 2250
+    }, 900);
+});
